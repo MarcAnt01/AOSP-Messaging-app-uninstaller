@@ -1,0 +1,6 @@
+id=aospmessagingapp_uninstaller
+name=AOSP Messaging app uninstaller
+version=v1.0
+versionCode=1
+author=MarcAnt01
+description=Uninstalls AOSP Messaging app, as it's not possible to disable it.
